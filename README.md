@@ -40,8 +40,8 @@ The application supports:
 ## Setup and Installation
 
 1. Clone this repository:
+   https://github.com/npswetha/CurrencyConvertor
 
-   
 3. Navigate into the project directory:
    cd currencyconvertor
    
