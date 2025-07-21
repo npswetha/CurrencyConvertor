@@ -8,7 +8,7 @@ The application supports:
 - Real-time currency conversion
 - Conversion from USD to any supported currency
 - Conversion between any two currencies
-- Fetching and displaying live exchange rates and currency names
+- Fetching and displaying live exchange rates
 - Mobile-friendly user interface built with Flutter
 
 ## Features
@@ -23,12 +23,6 @@ The application supports:
 - Select both base and target currencies
 - View the converted result
 
-### UI & Functionality
-- Clean, card-based layout using Flutter Material components
-- Separate reusable widgets for USD to Any and Any to Any conversions
-- Asynchronous data fetching with `FutureBuilder`
-- Error handling for invalid inputs
-- Form validation and dropdowns with currency list
 
 ## Tech Stack
 
